@@ -3,6 +3,10 @@ body{
     font-family: [Kumbh Sans](https://fonts.google.com/specimen/Kumbh+Sans);
     width: 100%;
     margin: -10px;
+     background-color: hsl(185, 75%, 39%);
+    background-image: url(images/bg-pattern-top.svg), url(images/bg-pattern-bottom.svg);
+    background-repeat: no-repeat;
+    background-position: -30rem -55rem, 60rem 30rem;  
 
 }
 p{
