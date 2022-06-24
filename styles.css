@@ -1,0 +1,66 @@
+body{
+    background-image: url(images/bg-pattern-top.svg);
+    font-family: [Kumbh Sans](https://fonts.google.com/specimen/Kumbh+Sans);
+    width: 100%;
+    margin: -10px;
+
+}
+p{
+    color:  hsl(0, 0%, 59%);
+}
+h2{
+    color:   hsl(229, 23%, 23%);
+}
+.big-heading{
+    background-image:url(images/bg-pattern-card.svg);
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border-top-right-radius:10px;
+    border-top-left-radius:10px;
+    padding: 4rem;
+    padding-top: 7rem;
+    padding-right: 0px;
+    width: 20rem;
+    margin-left: 20rem;
+    margin-top: 10rem;
+}
+.small-heading{
+    background-color:#fff;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border-bottom-right-radius:10px;
+    border-bottom-left-radius:10px;
+    padding: 2rem;
+    width: 20rem;
+    margin-left: 20rem;
+}
+#image{
+    margin-top: -5rem;
+    width: 30%;
+    border-radius: 100%;
+    display: flex;
+   margin-left: 7rem;
+}
+.text{
+    display: flex;
+margin-left: 3.5rem;
+}
+.num{
+    padding-right: 1rem;
+}
+.mun{
+    padding-right: 1rem;
+}
+.umn{
+    text-align: center;
+}
+.attribution{
+    padding: 1rem;
+    margin-top: 1rem;
+    font-size: 15px;
+}
+a:hover{
+    color:purple ;
+}
